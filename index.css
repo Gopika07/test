@@ -1,13 +1,13 @@
-body{
-    color: bisque;
+body {
+    background-color: rgb(206, 131, 40);
 }
 
-h3{
+h3 {
     color: aquamarine;
     background-color: black;
 }
 
-p{
-    font-size: medium;
+p {
+    font-size: large;
     color: blueviolet;
 }
